@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace shelb
+namespace HelloWorldApplication
 {
-    class Program
+    class HelloWorld
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }

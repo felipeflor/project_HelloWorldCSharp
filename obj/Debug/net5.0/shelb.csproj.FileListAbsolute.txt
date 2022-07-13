@@ -1,0 +1,16 @@
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\bin\Debug\net5.0\shelb.exe
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\bin\Debug\net5.0\shelb.deps.json
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\bin\Debug\net5.0\shelb.runtimeconfig.json
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\bin\Debug\net5.0\shelb.runtimeconfig.dev.json
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\bin\Debug\net5.0\shelb.dll
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\bin\Debug\net5.0\shelb.pdb
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.csproj.AssemblyReference.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.AssemblyInfoInputs.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.AssemblyInfo.cs
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.csproj.CoreCompileInputs.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.dll
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\refint\shelb.dll
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.pdb
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\shelb.genruntimeconfig.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista1\obj\Debug\net5.0\ref\shelb.dll

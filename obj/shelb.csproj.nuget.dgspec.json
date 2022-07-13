@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shelb\\shelb.csproj": {}
+    "C:\\Users\\shelb\\OneDrive\\Documentos\\dev\\Generation\\C#\\Lista1\\shelb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shelb\\shelb.csproj": {
+    "C:\\Users\\shelb\\OneDrive\\Documentos\\dev\\Generation\\C#\\Lista1\\shelb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shelb\\shelb.csproj",
+        "projectUniqueName": "C:\\Users\\shelb\\OneDrive\\Documentos\\dev\\Generation\\C#\\Lista1\\shelb.csproj",
         "projectName": "shelb",
-        "projectPath": "C:\\Users\\shelb\\shelb.csproj",
+        "projectPath": "C:\\Users\\shelb\\OneDrive\\Documentos\\dev\\Generation\\C#\\Lista1\\shelb.csproj",
         "packagesPath": "C:\\Users\\shelb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shelb\\obj\\",
+        "outputPath": "C:\\Users\\shelb\\OneDrive\\Documentos\\dev\\Generation\\C#\\Lista1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
